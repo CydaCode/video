@@ -138,7 +138,7 @@ h1 span {
 input[type=range] {
     -webkit-appearance: none;
     background: transparent;
-    width: 24%;
+    width: 20%;
     margin: -2rem 15px;
     padding-top: 1rem;
     justify-content: flex-end;
